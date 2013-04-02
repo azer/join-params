@@ -1,0 +1,21 @@
+{
+  "name": "join-params",
+  "version": "0.0.0",
+  "description": "Partial function application with parameter formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "new-format": "*"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "repository": {
+    "url": "git@github.com:azer\/join-params.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
